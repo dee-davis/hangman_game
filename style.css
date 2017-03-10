@@ -1,0 +1,30 @@
+ button {
+   width: 50px
+  opacity: 1;
+  height: 30px;
+  float: center;
+  text-align: center;
+  background-color: yellow;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Chewy', cursive;
+  font-size: 75px;
+}
+
+legend {
+  text-align: center;
+  font-size: 25px;
+  border-style: hidden;
+}
+body {
+  background-color: #FFFACD;
+}
+
+div {
+  text-align: center;
+}
+
+
+/*.button:hover{*/
